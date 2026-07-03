@@ -1,2 +1,22 @@
-# SalesInsight-Dashboard
-A Streamlit-based retail sales analytics dashboard built with Python, Pandas, Matplotlib, and MySQL to analyze sales trends, top-selling products, regional performance, and generate automated business insights.
+
+# SalesInsight Dashboard
+
+## Tech Stack
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
+- MySQL
+
+## Features
+- KPI cards
+- Monthly sales trend
+- Top products
+- Category & region filters
+- CSV download
+
+## Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
